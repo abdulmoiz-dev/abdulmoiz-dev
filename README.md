@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">Associate Software Engineer | Ruby on Rails | React | Backend & System Design</h3>
 
