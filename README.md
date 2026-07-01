@@ -8,16 +8,6 @@
 </p>
 
 ---
-<h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">Senior Software Developer | Ruby on Rails | React | Backend & System Design</h3>
-
-<p align="center">
-  <a href="https://github.com/abdulmoiz-dev">
-    <img src="https://komarev.com/ghpvc/?username=abdulmoiz-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
----
 
 ## 🚀 About Me
 
