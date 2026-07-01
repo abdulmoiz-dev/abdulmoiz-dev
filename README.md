@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
-<h3 align="center">Senior Software Developer | Ruby on Rails | React | Backend & System Design</h3>
+<h3 align="center">Associate Software Engineer | Ruby on Rails | React | Backend & System Design</h3>
 
 <p align="center">
   <a href="https://github.com/abdulmoiz-dev">
@@ -68,7 +68,15 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulmoiz-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoiz-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://gi## 💭 Favorite Quote
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>thub-readme-stats.vercel.app/api/top-langs/?username=abdulmoiz-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -85,12 +93,4 @@
 
 ---
 
-## 💭 Favorite Quote
 
-> "First, solve the problem. Then, write the code." — John Johnson
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
