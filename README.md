@@ -65,11 +65,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdulmoiz-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoiz-dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abdulmoiz-dev&theme=tokyonight&hide_border=true"/>
@@ -83,4 +83,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmoiz-dev&theme=tokyo-night&hide_border=true"/>
 </p>
 
-```
